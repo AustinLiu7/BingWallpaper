@@ -9,7 +9,7 @@ android {
     defaultConfig {
         applicationId "xyz.liut.bingwallpaper"
         minSdkVersion 21
-        targetSdkVersion 30
+        targetSdkVersion 26
 
         versionCode rootProject.ext.versionCode
         versionName rootProject.ext.versionName
